@@ -6,10 +6,12 @@ This is a set of Jupyter notebooks, designed for time series analysis, forecasti
 https://github.com/jupyterlab/jupyterlab-git
 
 ### Installation:
+
 	pip install --upgrade jupyterlab-git
 	jupyter lab build
 	jupyter labextension install @jupyterlab/git
 
 ### Verify:
+
 	jupyter labextension list
 
